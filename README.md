@@ -5,4 +5,4 @@ Jarvis is an AI machine that responds to the users' commands and has a variety o
 
 
 **Challenges:**
-Most of the team members are not familiar with importing external libaraies and utilize them. We  must practice and test each of the unqiue commands within the limited time.
+Most of the team members are not familiar with importing external libaraies and utilize them. We  had to practice and test each of the unqiue commands while also laying out the structure of the code in a clean and efficient manner. 
